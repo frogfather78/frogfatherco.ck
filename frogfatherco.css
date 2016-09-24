@@ -1,0 +1,14 @@
+body {background-color: #eee;}
+
+#banner {width:100%; background-color: #000; color: #fff; font-family:helvetica, arial, sans;}
+
+#content {width:50%; font-size:14px; background-color: #fff; padding:15px; margin-top:60px; margin-left:50px;}
+
+#noncontent {float:right;}
+
+#history {border:1px dashed black;}
+
+#rollbar {font-size: 11px;  border:1px solid black;}
+#rollbar li {display:inline; text-decoration:none; }
+
+#tweets {float: right; border:1px dotted black;}
